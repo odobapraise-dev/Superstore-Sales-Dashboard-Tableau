@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/6991dc1a-04fa-4b65-94d7-339c363cf2bf" />
+
 
 
 Tools & Technologies Used
@@ -12,6 +14,18 @@ Tools & Technologies Used
 - Sales trend
 - Top 10 products 
 - Interactive Dashboard with filters
+Business metrics
+Key Performance Indicators (KPIs)
+
+Total Sales: $2,297,201.07
+Total Profit: $286,397.79
+Total Orders: 5,009
+Average Order Value: $458.61
+
+The store generated strong revenue of $2.29 Million during the period.
+Overall profit stands at $286K, indicating healthy but improvable profitability.
+Customers spend an average of $458.61 per order.
+The business successfully fulfilled 5,009 orders.
 
 This dashboard tells a clear story about the Superstore’s performance:
 
